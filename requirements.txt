@@ -1,0 +1,6 @@
+newspaper3k
+feedparser
+pandas
+dateparser
+nltk
+telethon
